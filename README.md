@@ -16,6 +16,5 @@ The dashboard provides insights into:
 - Satisfaction levels with work-life balance and salary
 - Difficulty of breaking into the data field
 
-This project is ideal for beginners learning Power BI or those interested in data professional trends. It serves as a practical example of data analysis and visualization techniques, with potential for further expansion and advanced analysis.
 
-Feel free to explore, modify, and build upon this project to enhance your Power BI skills and create your own unique dashboards!
+
